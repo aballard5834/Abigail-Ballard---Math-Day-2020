@@ -1,3 +1,5 @@
+Link to recorded talk: https://www.youtube.com/watch?v=7ZWUr-vdsJk&feature=youtu.be
+
 Parameter Estimation and Simulation of Bacteriophage Infection Model
 
 Abigail* Ballard, Dustin Edwards, and Keith Emmert
